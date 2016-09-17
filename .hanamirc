@@ -1,0 +1,4 @@
+project=hanami_bookshelf
+architecture=container
+test=minitest
+template=erb
